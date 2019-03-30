@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c965c2a0-1fbe-4c8a-9c6b-060da34f3a78" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="iris-laravel-admin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/model.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/generate.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/iris-laravel.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4561">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/cache.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/captcha.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/view.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/SysController.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4478">
+              <caret line="251" column="36" selection-start-line="251" selection-start-column="36" selection-end-line="251" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/redis.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../go-xorm/xorm/session_schema.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4536">
+              <caret line="222" column="24" selection-start-line="222" selection-start-column="24" selection-end-line="222" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;?=CDNRESOURCE?&gt;</find>
+      <find>&lt;?=$totals?&gt;</find>
+      <find>userlist</find>
+      <find>&lt;?php</find>
+      <find>?&gt;</find>
+      <find>MenuDetail</find>
+      <find>func app</find>
+      <find>&lt;?php } ?&gt;</find>
+      <find>&lt;?php if(($app_id &lt;1 &amp;&amp; $user_right['add']) || $user_right['edit']):?&gt;</find>
+      <find>deleteFunc</find>
+      <find>napps</find>
+      <find>=&lt;?= $app_id ?&gt;</find>
+      <find>&lt;?=$app-&gt;app_id?&gt;</find>
+      <find>captchaImgScript</find>
+      <find>decodeHtml</find>
+      <find>get_icon_files</find>
+      <find>captchaImg</find>
+      <find>.content-left-nav</find>
+      <find>content-left-nav</find>
+      <find>isMobile</find>
+      <find>&lt;?=BASEURI?&gt;</find>
+      <find>content-left-nav &gt; i</find>
+      <find>ismoBILE</find>
+      <find>update_admin_online</find>
+      <find>adminuser</find>
+      <find>InsertUser</find>
+      <find>getadmincou</find>
+      <find>InsertAdmin</find>
+      <find>&lt;?=</find>
+      <find>insertadmin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ve.</replace>
+      <replace>{%  if t %} {{t}} {% endif %}</replace>
+      <replace>{%  endfor %}</replace>
+      <replace>{{app.AppName}}</replace>
+      <replace>{% smys(app.app_status == 1, &quot;可用&quot;，“不可用”) %}</replace>
+      <replace>admin.role_id.Intval</replace>
+      <replace>{{func.func_id}}</replace>
+      <replace>{%  if user_right.delete %}</replace>
+      <replace>{% if (func_id &lt; 1 &amp;&amp; user_right.add) || user_right.edit %}</replace>
+      <replace>{{app.AppId}}</replace>
+      <replace>{% if func %}{{func.FuncName}}{% endif %}</replace>
+      <replace>{% if  len(roles) == 0 %}</replace>
+      <replace>{{role.RoleId}}</replace>
+      <replace>{% if role %}{{role}}</replace>
+      <replace>{% if role %}{{role.RoleFuncids}}{% endif %}</replace>
+      <replace>{% endfor %}</replace>
+      <replace>{{role_id}}</replace>
+      <replace>{% endif %}</replace>
+      <replace>{{getOrderStatus(2, oc, os)}}</replace>
+      <replace>{{os}}</replace>
+      <replace>{{CDNRESOURCE}}</replace>
+      <replace>{{totals}}</replace>
+      <replace>{{uid}}</replace>
+      <replace>{% endif  %}</replace>
+      <replace>{% if (app_id &lt; 1 &amp;&amp; user_right.add) || user_right.edit %}</replace>
+      <replace>}}</replace>
+      <replace>{{app_id}}</replace>
+      <replace>{{app.app_id.Intval}}</replace>
+      <replace>{{func.func_id.Intval}}</replace>
+      <replace>{{BASEURI}}</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/resources/views/admin/sys</dir>
+      <dir>$PROJECT_DIR$/app</dir>
+      <dir>$PROJECT_DIR$/resources/views</dir>
+      <dir>$PROJECT_DIR$/public/client/js</dir>
+      <dir>$PROJECT_DIR$/</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/admin/login.go" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/auth.go" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/captcha.go" />
+        <option value="$PROJECT_DIR$/config/cache.go" />
+        <option value="$PROJECT_DIR$/config/captcha.go" />
+        <option value="$PROJECT_DIR$/app/Models/generate.sh" />
+        <option value="$PROJECT_DIR$/app/Models/redis.sh" />
+        <option value="$PROJECT_DIR$/config/database.go" />
+        <option value="$PROJECT_DIR$/resources/views/admin/test.html" />
+        <option value="$PROJECT_DIR$/public/client/css/admin/default.css" />
+        <option value="$PROJECT_DIR$/public/client/css/admin/black.css" />
+        <option value="$PROJECT_DIR$/public/client/js/jquery.admin.extend.js" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/csrf/csrf.go" />
+        <option value="$PROJECT_DIR$/resources/views/game/index.html" />
+        <option value="$PROJECT_DIR$/app/IpLocation.go" />
+        <option value="$PROJECT_DIR$/resources/bak/admin/sys/admin_list.html" />
+        <option value="$PROJECT_DIR$/test.go" />
+        <option value="$PROJECT_DIR$/resources/views/admin/sys/admin_list.html" />
+        <option value="$PROJECT_DIR$/resources/views/admin/main.html" />
+        <option value="$PROJECT_DIR$/server.go" />
+        <option value="$PROJECT_DIR$/public/client/js/jquery.extend.js" />
+        <option value="$PROJECT_DIR$/resources/views/admin/master.html" />
+        <option value="$PROJECT_DIR$/public/client/js/rbgame.helper.js" />
+        <option value="$PROJECT_DIR$/resources/views/admin/sys/role_list.html" />
+        <option value="$PROJECT_DIR$/resources/views/admin/sys/role_op.html" />
+        <option value="$PROJECT_DIR$/resources/views/admin/sys/func_op.html" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/csrf/VerifyCsrfToken.go" />
+        <option value="$PROJECT_DIR$/resources/views/admin/sys/user_op.html" />
+        <option value="$PROJECT_DIR$/resources/views/admin/sys/user_list.html" />
+        <option value="$PROJECT_DIR$/resources/views/admin/sys/admin_op.html" />
+        <option value="$PROJECT_DIR$/resources/views/errors/error.html" />
+        <option value="$PROJECT_DIR$/app/Http/routes.go" />
+        <option value="$PROJECT_DIR$/resources/views/admin/sys/app_op.html" />
+        <option value="$PROJECT_DIR$/resources/views/admin/sys/func_list.html" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/auth/auth.go" />
+        <option value="$PROJECT_DIR$/resources/views/admin/sys/editpassword.html" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/captcha/captcha.go" />
+        <option value="$PROJECT_DIR$/resources/views/admin/login.html" />
+        <option value="$PROJECT_DIR$/resources/views/admin/index.html" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/app/main.go" />
+        <option value="$PROJECT_DIR$/hot.go" />
+        <option value="$PROJECT_DIR$/config/app.go" />
+        <option value="$PROJECT_DIR$/app/cacheManager.go" />
+        <option value="$PROJECT_DIR$/hot/main.go" />
+        <option value="$PROJECT_DIR$/app/util.go" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Models/sys.go" />
+        <option value="$PROJECT_DIR$/app/Models/model.go" />
+        <option value="$PROJECT_DIR$/tests/iris-laravel_2019-03-26.sql" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/SysController.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="iris-laravel-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iris-laravel-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iris-laravel-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iris-laravel-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iris-laravel-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iris-laravel-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="hot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iris-laravel-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iris-laravel-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Models" />
+      <recent name="$PROJECT_DIR$/hot" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/Http/Middleware/auth" />
+      <recent name="$PROJECT_DIR$/app/Http/Middleware/captcha" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="iris-laravel-admin" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/hot/main.go" />
+      <package value="github.com/jmesyan/iris-laravel-admin" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="iris-laravel-admin" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/jmesyan/iris-laravel-admin" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="iris-laravel-admin" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/server.go" />
+      <package value="github.com/jmesyan/iris-laravel-admin" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build server.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_CLASSES,ALPHA_COMPARATOR" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6885813" visible="true" weight="0.20512821" />
+      <window_info id="Structure" order="1" sideWeight="0.31141868" side_tool="true" weight="0.2002442" />
+      <window_info id="Favorites" order="2" sideWeight="0.5007474" side_tool="true" weight="0.25274727" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39183673" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35204083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32995495" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24285714" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6885813" visible="true" weight="0.2026862" />
+      <window_info id="Structure" order="1" sideWeight="0.31141868" side_tool="true" weight="0.2002442" />
+      <window_info id="Favorites" order="2" sideWeight="0.5007474" side_tool="true" weight="0.25274727" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.030612245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35204083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32995495" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.19387755" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Admin/SysController.go</url>
+          <line>806</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/sys/role_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/sys/role_op.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#3178#3184#0#HTML" expanded="true" />
+            <element signature="e#3184#3190#0#HTML" expanded="true" />
+            <element signature="e#3292#3298#0#HTML" expanded="true" />
+            <element signature="e#3298#3304#0#HTML" expanded="true" />
+            <element signature="e#3407#3413#0#HTML" expanded="true" />
+            <element signature="e#3413#3419#0#HTML" expanded="true" />
+            <element signature="e#3524#3530#0#HTML" expanded="true" />
+            <element signature="e#3530#3536#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/csrf/VerifyCsrfToken.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/bak/admin/sys/role_op.html" />
+    <entry file="file://$PROJECT_DIR$/resources/bak/admin/sys/user_list.html" />
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/sys/user_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/sys/admin_op.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/client/js/jquery.admin.extend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="974" column="49" selection-start-line="974" selection-start-column="44" selection-end-line="974" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#45#51#1" expanded="true" />
+            <element signature="e#16#22#1" expanded="true" />
+            <element signature="e#33#39#1" expanded="true" />
+            <element signature="e#16#22#1" expanded="true" />
+            <element signature="e#23#29#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/503.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/bak/admin/sys/app_op.html" />
+    <entry file="file://$PROJECT_DIR$/../../go-xorm/xorm/session_get.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/structure/sys_app.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/sys/user_op.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-945">
+          <caret line="5" column="159" selection-start-line="5" selection-start-column="159" selection-end-line="5" selection-end-column="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/sys/func_op.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="51" column="123" selection-start-line="50" selection-start-column="32" selection-end-line="51" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/sys/app_op.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-919">
+          <caret line="13" column="85" selection-start-line="13" selection-start-column="85" selection-end-line="13" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/sys/func_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="102" column="148" selection-start-line="102" selection-start-column="148" selection-end-line="102" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/auth/auth.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/fmt/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="215" column="12" selection-start-line="215" selection-start-column="12" selection-end-line="215" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/html/template/content.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/captcha/captcha.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/sys/editpassword.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../kataras/iris/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="335" column="4" selection-start-line="335" selection-start-column="4" selection-end-line="335" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/master.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1468">
+          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="110" column="41" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../joho/godotenv/godotenv.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5293">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot.go" />
+    <entry file="file://$PROJECT_DIR$/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../kataras/iris/sessions/database.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../kataras/iris/sessions/sessions.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/cacheManager.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="70" column="51" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="51" />
+          <folding>
+            <element signature="e#16#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="78" column="35" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/util.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="77" column="14" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/sys.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4494">
+          <caret line="218" column="16" selection-start-line="218" selection-start-column="5" selection-end-line="218" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/structure/sys_admin_user.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/structure/log_admin_op.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go-xorm/xorm/session_schema.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4536">
+          <caret line="222" column="24" selection-start-line="222" selection-start-column="24" selection-end-line="222" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/SysController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4478">
+          <caret line="251" column="36" selection-start-line="251" selection-start-column="36" selection-end-line="251" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/redis.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/model.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/generate.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/iris-laravel.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4561">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cache.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/captcha.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/view.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
